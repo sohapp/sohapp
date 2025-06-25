@@ -24,8 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ### 📌 Featured Projects
 - 💼 [SkillSync – Career Recommendation App](https://github.com/yourusername/skillsync)
