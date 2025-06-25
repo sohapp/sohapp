@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Sohaib 👋
+A MERN Stack Developer & Final Year Software Engineering Student at FAST 🚀
 
-<!--
-**sohapp/sohapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+- 💻 Languages: JavaScript, Java, Python
+- 🌐 Frontend: React.js, HTML5, CSS3, Bootstrap
+- 🛠 Backend: Node.js, Express.js
+- 🗄 Database: MongoDB, Firebase
+- 🧠 Learning: AI/ML, Django
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- 💼 [SkillSync – Career Recommendation App](https://github.com/yourusername/skillsync)
+- 🌐 [Social Media App – Java & Firebase](https://github.com/yourusername/social-app)
+- 📸 [CNN Gender Classifier – PyTorch](https://github.com/yourusername/gender-classifier)
+
