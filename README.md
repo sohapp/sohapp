@@ -1,6 +1,12 @@
 ### Hi, I'm Sohaib 👋
-A MERN Stack Developer & Final Year Software Engineering Student at FAST 🚀
+<h1 align="center">Hi, I'm Sohaib 👋</h1>
 
+<p align="center">
+  🚀 Final Year Software Engineering Student at FAST <br>
+  💻 MERN Stack Developer | Android | AI/ML Enthusiast <br>
+</p>
+
+---
 ### 🛠️ Tech Stack
 
 <p align="left">
