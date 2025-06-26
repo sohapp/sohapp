@@ -26,8 +26,5 @@
 
 
 
-### 📌 Featured Projects
-- 💼 [SkillSync – Career Recommendation App](https://github.com/yourusername/skillsync)
-- 🌐 [Social Media App – Java & Firebase](https://github.com/yourusername/social-app)
-- 📸 [CNN Gender Classifier – PyTorch](https://github.com/yourusername/gender-classifier)
+
 
